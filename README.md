@@ -27,7 +27,7 @@ Sistemul permite selectarea modului de joc folosind un comutator (Switch) conect
 | **Butoane Push** | Pentru input joc |
 | **LED-uri** | Culori diferite (ex: Rosu, Galben, Verde) |
 | **Rezistente** | 220 Ohm (pentru LED-uri) |
-| **Buzzer** | Pasiv sau Activ (pentru sunete) |
+| **Buzzer** | Pasiv (pentru sunete) |
 | **Switch / Buton** | Pentru schimbarea modului de joc |
 | **Fire & Breadboard** | Pentru conexiuni |
 
