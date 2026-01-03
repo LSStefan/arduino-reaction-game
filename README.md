@@ -54,7 +54,7 @@ Configuratia foloseste modul **INPUT_PULLUP** pentru butoane (nu necesita rezist
 
 
 ### Poza Montaj
-![Montaj Arduino](poza.jpeg)
+![Montaj Arduino](montaj.jpeg)
 
 
 
