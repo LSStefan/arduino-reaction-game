@@ -52,6 +52,12 @@ Configuratia foloseste modul **INPUT_PULLUP** pentru butoane (nu necesita rezist
 
 ---
 
+
+### Poza Montaj
+![Montaj Arduino](poza.jpeg)
+
+
+
 ## Instalare si Utilizare
 
 1. **Hardware:** Realizeaza conexiunile conform tabelului de mai sus.
